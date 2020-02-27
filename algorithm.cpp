@@ -30,7 +30,7 @@ void pop(int *a, int *b) {
 
 
 int M, N; /* Dimension of input; M is length of a row. */
-
+//M is the lingth of the row
 void update_cache() {
   int m;
   char b;
